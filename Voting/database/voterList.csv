@@ -1,0 +1,7 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Akshay,Male,qwerty,asdfghjk,55555,0
+1,10002,arun,Male,qwertyuikjh,dfghjklkjhbv,11111,0
+2,10003,sam,Male,dfsdf,sdfsdf,12345,0
+3,10004,hello,Male,dsfdhgfjghgf,sfdhgdg,111111,1
+4,10005,first,Male,wrwer,fsdf,qwert,1
+5,10006,Rithwik,Male,sdgdfgdf,fgdfg,tadu,1
